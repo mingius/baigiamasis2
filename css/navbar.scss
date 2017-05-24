@@ -1,0 +1,33 @@
+
+.mini-nav{
+  min-height: 30px;
+  margin-bottom: 0px;
+  border-radius: 0;
+  font-size: 10px;
+
+
+  li {
+    padding: 5px 10px;
+
+    a{
+      padding: 0;
+    }
+  }
+}
+
+.navbar-default {
+  background-color: #ffffff;
+  margin-bottom: 0px;
+  border-radius: 0;
+
+  .nav-container {
+    //height: 70px;
+    display: table;
+
+    .navbar-brand {
+      padding: 0;
+      display: table-cell;
+      vertical-align: middle;
+    }
+  }
+}

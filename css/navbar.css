@@ -1,0 +1,22 @@
+.mini-nav {
+  min-height: 30px;
+  margin-bottom: 0px;
+  border-radius: 0;
+  font-size: 10px; }
+  .mini-nav li {
+    padding: 5px 10px; }
+    .mini-nav li a {
+      padding: 0; }
+
+.navbar-default {
+  background-color: #ffffff;
+  margin-bottom: 0px;
+  border-radius: 0; }
+  .navbar-default .nav-container {
+    display: table; }
+    .navbar-default .nav-container .navbar-brand {
+      padding: 0;
+      display: table-cell;
+      vertical-align: middle; }
+
+/*# sourceMappingURL=navbar.css.map */
