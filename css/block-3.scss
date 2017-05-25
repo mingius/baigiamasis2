@@ -1,0 +1,71 @@
+//BLOCK-3
+.block-3-row{
+  background-color: #f3f3f3;
+  .tab-block {
+    margin: 40px 0;
+
+    h3{
+      font-family: Arial;
+      font-weight: bold;
+      margin-bottom: 30px;
+      color: #717978;
+    }
+    .nav-tabs{
+      border: none;
+      min-height: 30px;
+
+      li{
+
+        a {
+          color: #717978;
+          border: none;
+          border-radius: 0px;
+          margin: 0px;
+        }
+
+
+      }
+      li.active{
+        border-top: 4px solid #1dccc7;
+
+        a.active{
+          color: #1dccc7;
+        }
+      }
+    }
+    .tab-content, .block-3-tab, .tab-image{
+      background-color: #FFFFFF;
+
+      p{
+        margin-bottom: 0px;
+        padding: 20px;
+        color: #939393;
+      }
+    }
+
+    .block-3-tab{
+
+      .tab-ul{
+        list-style-type: none;
+        padding: 10px 5px;
+
+        .tab-li{
+          padding-bottom: 10px;
+
+          i{
+            color: #dc4937;
+          }
+
+          .tab-link{
+            text-decoration: none;
+            color: #939393;
+            padding-left: 10px;
+
+          }
+        }
+      }
+    }
+  }
+
+}
+///BLOCK-3

@@ -1,0 +1,34 @@
+.home-block {
+  background-image: url("/images/image2.png");
+}
+
+.html-block {
+  background-color: #1a2327;
+
+  .best-html-row {
+    margin: auto;
+
+    display: table;
+
+    .best-html {
+      height: 200px;
+      text-align: center;
+      font-family: Arial;
+
+      display: table-cell;
+      vertical-align: middle;
+
+      h2 {
+        font-weight: bold;
+        padding: 10px;
+        margin-bottom: 20px;
+        color: #ffffff;
+      }
+
+      p {
+        font-weight: lighter;
+        color: #9d9d9d;
+      }
+    }
+  }
+}

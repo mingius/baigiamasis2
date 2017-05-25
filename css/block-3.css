@@ -1,0 +1,40 @@
+.block-3-row {
+  background-color: #f3f3f3; }
+  .block-3-row .tab-block {
+    margin: 40px 0; }
+    .block-3-row .tab-block h3 {
+      font-family: Arial;
+      font-weight: bold;
+      margin-bottom: 30px;
+      color: #717978; }
+    .block-3-row .tab-block .nav-tabs {
+      border: none;
+      min-height: 30px; }
+      .block-3-row .tab-block .nav-tabs li a {
+        color: #717978;
+        border: none;
+        border-radius: 0px;
+        margin: 0px; }
+      .block-3-row .tab-block .nav-tabs li.active {
+        border-top: 4px solid #1dccc7; }
+        .block-3-row .tab-block .nav-tabs li.active a.active {
+          color: #1dccc7; }
+    .block-3-row .tab-block .tab-content, .block-3-row .tab-block .block-3-tab, .block-3-row .tab-block .tab-image {
+      background-color: #FFFFFF; }
+      .block-3-row .tab-block .tab-content p, .block-3-row .tab-block .block-3-tab p, .block-3-row .tab-block .tab-image p {
+        margin-bottom: 0px;
+        padding: 20px;
+        color: #939393; }
+    .block-3-row .tab-block .block-3-tab .tab-ul {
+      list-style-type: none;
+      padding: 10px 5px; }
+      .block-3-row .tab-block .block-3-tab .tab-ul .tab-li {
+        padding-bottom: 10px; }
+        .block-3-row .tab-block .block-3-tab .tab-ul .tab-li i {
+          color: #dc4937; }
+        .block-3-row .tab-block .block-3-tab .tab-ul .tab-li .tab-link {
+          text-decoration: none;
+          color: #939393;
+          padding-left: 10px; }
+
+/*# sourceMappingURL=block-3.css.map */
